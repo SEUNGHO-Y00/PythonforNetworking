@@ -29,6 +29,7 @@ At the end of this episode, I will be able to:
 
 * [Computer Networking Lab Snippet #1](https://www.youtube.com/watch?v=GejEZA_B14I&ab_channel=NatashaBondsTechPortfolio)
 * [Computer Networking Lab Snippet #2](https://www.youtube.com/watch?v=zymD0aWYeGo&ab_channel=NatashaBondsTechPortfolio)
+* [Argparse Basic](https://www.youtube.com/watch?v=FbEJN8FsJ9U&t=19s&ab_channel=JohnWatsonRooney)
 
 ### Snippet Examples
 

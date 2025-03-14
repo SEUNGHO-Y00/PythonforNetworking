@@ -12,26 +12,20 @@ At the end of this episode, I will be able to:
 
 -----------------------------------------------------------
 
-### Snippets
+### Argparse
 
-* What are Snippets?
-  - Snippets are essentially small, self-contained pieces of code, text, or configuration that can be easily inserted and reused in different contexts. 
+Resource from [python.org](https://docs.python.org/3/library/argparse.html)
 
-* Why use Snippets?
-  - They promote code reuse, reduce redundancy, and streamline development or configuration processes. 
+* The argparse module allows you to specify custom type converters for your command-line arguments.
+* Click is multiple orders of magnitude better than argparse.
+  - Click is generally considered more scalable due to its support for nested commands and its ability to handle more complex CLI structures with ease.
 
-* How Snippet Networks Work:
-  - Centralized Management: A network administrator can create and manage snippets in a central location, and then these snippets can be shared and deployed to multiple sites or devices on the network. 
-  - Sharing and Collaboration: Snippets can be shared among users or teams, facilitating collaboration and knowledge sharing. 
-  - Automation: Snippets can automate tasks or configurations, making it easier to deploy changes or set up new environments. 
+### Argparse Lectures
 
-### Snippet Lectures
+* [Argparse Basic Youtube](https://www.youtube.com/watch?v=FbEJN8FsJ9U&t=19s&ab_channel=JohnWatsonRooney)
+* [Argparse Step by Step](https://www.datacamp.com/tutorial/python-argparse)
 
-* [Computer Networking Lab Snippet #1](https://www.youtube.com/watch?v=GejEZA_B14I&ab_channel=NatashaBondsTechPortfolio)
-* [Computer Networking Lab Snippet #2](https://www.youtube.com/watch?v=zymD0aWYeGo&ab_channel=NatashaBondsTechPortfolio)
-* [Argparse Basic](https://www.youtube.com/watch?v=FbEJN8FsJ9U&t=19s&ab_channel=JohnWatsonRooney)
-
-### Snippet Examples
+### Argparse Examples
 
 **episode cli.py**
 
